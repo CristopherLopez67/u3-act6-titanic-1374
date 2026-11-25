@@ -33,5 +33,5 @@
 ![alt text](image-9.png)
 
 # Grafica de Nulos titanic 
-![alt text](caso1-titanic/resultados/nulos_titanic.png)
+![alt text](image-8.png)
 
